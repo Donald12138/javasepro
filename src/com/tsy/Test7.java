@@ -24,7 +24,9 @@ public class Test7 {
                 count++;
             }
         }
+
         System.out.println("修改版");
+        System.out.println("分支修改版");
         return count;
     }
 
