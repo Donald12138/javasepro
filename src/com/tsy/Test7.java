@@ -24,7 +24,7 @@ public class Test7 {
                 count++;
             }
         }
-        System.out.println("xiugaiban");
+        System.out.println("修改版");
         return count;
     }
 
