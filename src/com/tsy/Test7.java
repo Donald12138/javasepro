@@ -24,6 +24,7 @@ public class Test7 {
                 count++;
             }
         }
+        System.out.println("xiugaiban");
         return count;
     }
 
