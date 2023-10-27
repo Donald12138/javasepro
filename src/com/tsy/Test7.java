@@ -27,6 +27,7 @@ public class Test7 {
 
         System.out.println("修改版");
         System.out.println("分支修改版");
+        System.out.println("master test");
         return count;
     }
 
